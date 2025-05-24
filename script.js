@@ -35,7 +35,6 @@ var pl = gsap.timeline({
     start: "0% 90%",
     end: "50% 50%",
     scrub: true,
-    markers: true,
   },
 })
 pl.from("#lemonOne",{
